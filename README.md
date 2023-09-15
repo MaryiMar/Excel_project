@@ -15,7 +15,7 @@ The dataset encompass essential indicators concerning worldwide happiness and ov
 
 The report consists of three pages. The first one is the introduction, where you will find general information. The next page displays six important indicators that have been modified above. You can use the slicer to select any countries or regions. The last page shows the happiness score for the entire world. The page also contains a slicer, which allows you to filter. 
 
-## Features
+## View
 
 ![4](https://github.com/MaryiMar/Excel_project/assets/137822835/dc199909-2161-49c5-a1fe-e43ecbba923d)
 
